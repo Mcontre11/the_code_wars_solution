@@ -1,0 +1,3 @@
+var a = "codewa";
+var b = ".rs";
+var name = a + b;
